@@ -1,0 +1,29 @@
+[
+    {
+        "id_alumno":"001",
+        "nombre":"anaxagonas",
+        "nota1":7.0,
+        "nota2":8.0,
+        "nota3":9.0,
+        "total":8.0,
+        "average":2.67
+    },
+    {
+        "id_alumno":"003",
+        "nombre":"melquisedec",
+        "nota1":null,
+        "nota2":null,
+        "nota3":null,
+        "total":null,
+        "average":null
+    },
+    {
+        "id_alumno":"011",
+        "nombre":"hermenegildo",
+        "nota1":null,
+        "nota2":null,
+        "nota3":null,
+        "total":null,
+        "average":null
+    }
+]
