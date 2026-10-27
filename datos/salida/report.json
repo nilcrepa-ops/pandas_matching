@@ -5,8 +5,8 @@
         "nota1":7.0,
         "nota2":8.0,
         "nota3":9.0,
-        "total":8.0,
-        "average":2.67
+        "total":24.0,
+        "average":8.0
     },
     {
         "id_alumno":"003",
@@ -14,8 +14,8 @@
         "nota1":9.0,
         "nota2":9.0,
         "nota3":10.0,
-        "total":9.33,
-        "average":3.11
+        "total":28.0,
+        "average":9.33
     },
     {
         "id_alumno":"004",
@@ -23,8 +23,8 @@
         "nota1":6.0,
         "nota2":null,
         "nota3":7.0,
-        "total":6.5,
-        "average":2.17
+        "total":null,
+        "average":null
     },
     {
         "id_alumno":"005",
@@ -32,8 +32,8 @@
         "nota1":8.0,
         "nota2":8.5,
         "nota3":9.5,
-        "total":8.67,
-        "average":2.89
+        "total":26.0,
+        "average":8.67
     },
     {
         "id_alumno":"006",
@@ -41,8 +41,8 @@
         "nota1":10.0,
         "nota2":null,
         "nota3":null,
-        "total":10.0,
-        "average":3.33
+        "total":null,
+        "average":null
     },
     {
         "id_alumno":"007",
@@ -50,8 +50,8 @@
         "nota1":5.0,
         "nota2":6.0,
         "nota3":7.0,
-        "total":6.0,
-        "average":2.0
+        "total":18.0,
+        "average":6.0
     },
     {
         "id_alumno":"008",
@@ -59,8 +59,8 @@
         "nota1":null,
         "nota2":7.0,
         "nota3":8.0,
-        "total":7.5,
-        "average":2.5
+        "total":null,
+        "average":null
     },
     {
         "id_alumno":"009",

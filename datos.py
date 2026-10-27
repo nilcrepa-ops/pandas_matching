@@ -70,7 +70,7 @@ def prepare_data():
         print(f'Error: The report doesnt contain valid califications')
         return None
 
-    report['total'] = report[califications_cols].mean(axis=1).round(2)
+    report['total'] = report[califications_cols].sum(axis=1, min_count=3).round(2)
     report['average'] = (report['total'] / 3).round(2)
 
     report = report.sort_values('id_alumno').reset_index(drop=True)
